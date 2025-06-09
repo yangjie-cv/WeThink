@@ -1,5 +1,5 @@
 
-<h1 align="center">WeThink</h1>
+# WeThink: Toward General-purpose Vision-Language Reasoning via Reinforcement Learning
 
 
 <p align="center">
