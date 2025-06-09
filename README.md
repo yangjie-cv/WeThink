@@ -81,8 +81,8 @@ You can prepare our data into SFT format, such as:
         "from": "gpt", 
         "value": "cot"
     }
-                ],
-"images": [ image_path ],
+],
+"images": ["image_path"],
 "system": "system prompt"
 }
 ```
