@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="./assets/ar.svg" alt="Arxiv Logo" style="height: 1em; vertical-align: middle; margin-right: 0.3em;">
-  <a href="" target="_blank">Arxiv</a>  
+  <a href="https://arxiv.org/pdf/2506.07905" target="_blank">Arxiv</a>  
   💻  <a href="https://github.com/yangjie-cv/WeThink" target="_blank">Code</a>  
     <img src="./assets/hg.svg" alt="Hugging Face Logo" style="height: 1em; vertical-align: middle; margin-right: 0.3em;">
   <a href="https://huggingface.co/datasets/yangjie-cv/WeThink_Multimodal_Reasoning_120K" target="_blank">WeThink Dataset</a>  
@@ -81,7 +81,7 @@ You can prepare our data into SFT format, such as:
         "from": "gpt", 
         "value": "cot"
     }
-],
+                ],
 "images": ["image_path"],
 "system": "system prompt"
 }
@@ -106,5 +106,16 @@ We thank the great previous works and code frameworks, such as [LLaMA-Factory](h
 
 
 ## Cite Us 
+```
+@misc{yang2025wethink,
+      title={WeThink: Toward General-purpose Vision-Language Reasoning via Reinforcement Learning}, 
+      author={Jie Yang and Feipeng Ma and Zitian Wang and Dacheng Yin and Kang Rong and Fengyun Rao and Ruimao Zhang},
+      year={2025},
+      eprint={2506.07905},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2506.07905}, 
+}
+```
 
 
